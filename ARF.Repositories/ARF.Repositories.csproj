@@ -7,8 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ARF.Blazor.DAL\ARF.Blazor.DAL.csproj" />
-    <ProjectReference Include="..\ARF.Blazor.Models\ARF.Blazor.Models.csproj" />
+    <ProjectReference Include="..\ARF.DAL\ARF.DAL.csproj" />
+    <ProjectReference Include="..\ARF.Models\ARF.Models.csproj" />
   </ItemGroup>
 
 </Project>

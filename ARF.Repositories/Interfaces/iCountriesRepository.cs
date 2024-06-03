@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using ARF.Blazor.Models;
+using ARF.Models;
 
-namespace ARF.Blazor.Repository.Interfaces
+namespace ARF.Repository.Interfaces
 {
     internal interface iCountriesRepository
     {

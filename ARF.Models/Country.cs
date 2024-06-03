@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ARF.Blazor.Models
+namespace ARF.Models
 {
    public class Country
     {

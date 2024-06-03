@@ -1,13 +1,13 @@
-﻿using ARF.Blazor.Models;
-using ARF.Blazor.Repository.Interfaces;
-using ARF.Blazor.DAL;
+﻿using ARF.Models;
+using ARF.Repository.Interfaces;
+using ARF.DAL;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ARF.Blazor.Repository
+namespace ARF.Repository
 {
     internal class CountriesRepository : iCountriesRepository
     {

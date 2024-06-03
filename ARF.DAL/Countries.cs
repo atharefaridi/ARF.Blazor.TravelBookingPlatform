@@ -1,11 +1,11 @@
-﻿using ARF.Blazor.Models;
+﻿using ARF.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ARF.Blazor.DAL
+namespace ARF.DAL
 {
     public class Countries
     {
