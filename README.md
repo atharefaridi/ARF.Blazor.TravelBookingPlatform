@@ -1,4 +1,4 @@
-# 🌍 ARF Travel Booking System
+# 🌍 ARF Travel Booking System ( Blazor | AspNetCore | Radzen Control | MongoDB) 
 
 Welcome to the **ARF Travel Booking System**! This project is an ongoing effort to replicate the features of the popular WP Travel Plugins using Blazor technology. The application leverages the Repository Pattern and uses MongoDB as its database. Our aim is to provide travel agencies with a comprehensive set of tools to manage their booking platforms seamlessly.
 
