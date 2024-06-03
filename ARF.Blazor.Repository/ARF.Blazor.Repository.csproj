@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ARF.Blazor.DAL\ARF.Blazor.DAL.csproj" />
+    <ProjectReference Include="..\ARF.Blazor.Models\ARF.Blazor.Models.csproj" />
+  </ItemGroup>
+
+</Project>
